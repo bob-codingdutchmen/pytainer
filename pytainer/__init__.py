@@ -3,5 +3,7 @@
 """Top-level package for Pytainer."""
 
 __author__ = """Bob Vork"""
-__email__ = 'bob@theothersonline.eu'
-__version__ = '0.1.0'
+__email__ = "bob@theothersonline.eu"
+__version__ = "0.1.0"
+
+from .pytainer import Portainer
