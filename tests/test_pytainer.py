@@ -11,7 +11,7 @@ from pytainer import pytainer
 from pytainer import cli
 
 
-class TestPytainer(unittest.TestCase):
+class TestPytainer:
     """Tests for `pytainer` package."""
 
     def setUp(self):
