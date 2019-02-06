@@ -3,18 +3,20 @@ Pytainer
 ========
 
 
+A Python package to help deploy projects to portainer
 
+This package uses (a small subset of) the Portainer API to make
+updating and deploying stacks easier. The main use case is Continuous
+Integration / Deployment.
 
-
-
-Package to help deploy projects to portainer
-
+As this is build around my personal needs, don't expect a comprehensive
+implementation to manage a complete Portainer install.
 
 
 Features
 --------
 
-* TODO
+* Update a portainer stack with a stack file and env vars
 
 Credits
 -------
